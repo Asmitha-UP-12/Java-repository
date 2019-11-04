@@ -7,7 +7,7 @@ public class StaticDemo {
 		System.out.println("from sib of SaticDemo");
 	}
 	public static void main(String[] args) {
-		System.out.println("from main of StaticDemo");
+        System.out.println("from static demo main");
 		System.out.println(Demo.i);
 		
 		
